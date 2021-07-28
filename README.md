@@ -36,7 +36,7 @@
 | Имя | Роль | Логин | Пароль |
 | ------ | ------ | ------ | ------ |
 | Администратор базы | Admin | Admin | 123 |
-|Иван	Иванов	|           Employee|	        ```IvanIvanov ```| 123
+|Иван	Иванов	|           Employee|	        IvanIvanov| 123
 |Анна	Косовская|          Manager|	        AnnaKos|123
 |Александр	Рева|           Employee|	        Reva999|123
 |Антонио	Макавелли|      Salesman|           AntMak|123
